@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import type { Declaration, Rule, Stylesheet } from 'css';
 import type { Document, Element } from 'domhandler';
 // eslint-disable-next-line import/no-extraneous-dependencies
